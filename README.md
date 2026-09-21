@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Raghuram%20Munagala&fontSize=36&fontColor=ffffff&desc=GIS%20%26%20Data%20Analyst&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Raghuram%20Munagala&fontSize=36&fontColor=ffffff&desc=GIS%20and%20Data%20Analyst&descSize=16)
 
 GIS & Data Analyst based in Luxembourg, finishing an MSc in Data Science at EPITA. I turn geospatial and operational data into dashboards, clean datasets and decision-ready insights.
 
