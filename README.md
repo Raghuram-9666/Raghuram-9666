@@ -15,7 +15,7 @@ GIS & Data Analyst based in Luxembourg, finishing an MSc in Data Science at EPIT
 - [VAT Cluster Tendency Assessment](https://github.com/Raghuram-9666/Vat-Cluster-Tendency-Assessment): Python implementation of the VAT algorithm for visually assessing cluster tendency
 
 ## Currently
-GIS & Spatial Data Analyst Intern at MyConnectivity G.I.E., working on connectivity mapping and address data pipelines. Open to Data Analyst, GIS and Data Engineer roles in Luxembourg and across Europe.
+GIS & Spatial Data Analyst Intern at MyConnectivity G.I.E., working on connectivity mapping and address data pipelines. Open to Data Analyst, GIS and Data Engineer roles in Luxembourg and across Europe. Available from November 2026.
 
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/raghuram-munagala/) · raghuram.analytics@gmail.com
