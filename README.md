@@ -14,10 +14,9 @@ GIS & Spatial Data Analyst Intern at MyConnectivity G.I.E., working on connectiv
 - [Cyberbullying Detection using Explainable AI](https://github.com/Raghuram-9666/CyberBullying-XAI-Detector): multilingual toxic-content classifier (XLM-RoBERTa, BiLSTM, SVM, Logistic Regression) with SHAP, LIME and a Streamlit demo
 - [VAT Cluster Tendency Assessment](https://github.com/Raghuram-9666/Vat-Cluster-Tendency-Assessment): Python implementation of the VAT algorithm for visually assessing cluster tendency
 
-## GitHub stats
+## Languages I work with
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghuram-9666&show_icons=true&theme=default&rank_icon=github" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuram-9666&layout=compact&theme=default" alt="Top languages" height="165" />
 </p>
 
