@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Raghuram%20Munagala&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=GIS%20and%20Spatial%20Data%20Analyst&descSize=18&descAlignY=60)
 
-GIS & Data Analyst based in Luxembourg, finishing an MSc in Data Science at EPITA. I turn geospatial and operational data into dashboards, clean datasets and decision-ready insights.
+GIS & Data Analyst based in Longwy, France and working in Luxembourg, finishing an MSc in Data Science and Analysis at EPITA. I turn geospatial and operational data into dashboards, clean datasets and decision-ready insights.
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20GIS%20%7C%20Data%20Engineer-brightgreen?style=flat-square) ![Available](https://img.shields.io/badge/Available%20from-November%202026-blue?style=flat-square)
 
 ## Currently
 
-GIS & Spatial Data Analyst Intern at MyConnectivity G.I.E., working on connectivity mapping and address data pipelines. Open to Data Analyst, GIS and Data Engineer roles in Luxembourg and across Europe.
+GIS & Spatial Data Analyst Intern at MyConnectivity G.I.E., working on connectivity mapping and address data pipelines. Open to Data Analyst, GIS and Data Engineer roles in Luxembourg and across Europe. Available from November 2026.
 
 ## Featured projects (EPITA team projects)
 
@@ -25,7 +25,7 @@ GIS & Spatial Data Analyst Intern at MyConnectivity G.I.E., working on connectiv
 ## Languages I work with
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuram-9666&layout=compact&theme=default" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuram-9666&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" height="165" />
 </p>
 
 ## Get in touch
